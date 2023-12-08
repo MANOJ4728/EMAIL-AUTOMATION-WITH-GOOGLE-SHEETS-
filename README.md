@@ -15,7 +15,7 @@ This Python project automates the process of sending reminder emails based on da
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/automate-sending-emails.git
+    git clone https://github.com/MANOJ4728/EMAIL-AUTOMATION-WITH-GOOGLE-SHEETS-
     ```
 
 2. Install dependencies:
